@@ -1,6 +1,6 @@
 Based on the context provided, the **approximate investment required** and **potential savings** from implementing the improvements can be estimated as follows. Note that exact figures are not explicitly stated in the context, but we can infer approximate values based on the described projects and their financial implications.
 
----
+---asdsadasdda
 
 ### **1. Investment Required (CAPEX and OPEX)**
 The total investment depends on the scope of improvements. Key components include:
